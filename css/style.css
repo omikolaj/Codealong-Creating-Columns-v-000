@@ -72,6 +72,10 @@ figcaption {
 }
 
 /*//// LAYOUT /////*/
+*{
+  box-sizing: boarder-box;
+}
+
 .wrapper{
   width: 960px;
   margin: 0 auto;
