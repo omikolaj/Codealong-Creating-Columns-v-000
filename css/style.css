@@ -73,6 +73,8 @@ figcaption {
 
 /*//// LAYOUT /////*/
 *{
+  -webkit-box-sizing: boarder-box;
+  -moz-box-sizing: boarder-box;
   box-sizing: boarder-box;
 }
 
