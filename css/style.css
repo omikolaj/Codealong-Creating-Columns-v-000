@@ -110,3 +110,9 @@ figcaption {
 .first{
   margin-left: 0%;
 }
+/*//// SECTION /////*/
+
+section{
+  padding: : 20px;
+  margin-bottom: 20px;
+}
